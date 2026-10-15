@@ -11,7 +11,7 @@
 解密后的完整明文资源树（17,594 个文件 / 730MB+ / PNG 与 JPG 校验 100% 通过）以 zip 形式发布，不入 git：
 
 - **下载**：[GitHub Release](https://github.com/SthAsNothing/YYJH/releases/latest) → `res_encrypt_decrypted.zip`
-- **详细说明**（成果统计、目录结构、获取方式）：见 [res资源 分支](https://github.com/SthAsNothing/YYJH/tree/res%E8%B5%84%E6%BA%90)
+- **详细说明**（成果统计、目录结构、获取方式）：见 [res资源 分支](https://github.com/SthAsNothing/YYJH/tree/res)
 
 zip 保持 `assets/res_encrypt/` 原有目录结构，解压即用。
 
