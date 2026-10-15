@@ -26,7 +26,7 @@
 
 ## 资源获取方式
 
-730MB+ 明文资源树不入 git，**请到本仓库 GitHub Release 页下载 `res_encrypt_decrypted.zip`**（内含完整明文资源树）。zip 保持 `assets/res_encrypt/` 原有目录结构（app/effect/hero/map 等各子目录齐全），解压即用。
+730MB+ 明文资源树不入 git，请到本仓库 [GitHub Release 页](https://github.com/SthAsNothing/YYJH/releases/latest) 下载 `res_encrypt_decrypted.zip`（内含完整明文资源树）。zip 保持 `assets/res_encrypt/` 原有目录结构（`app/effect/hero/map` 等各子目录齐全），解压即用。
 
 ## 关联项目
 
