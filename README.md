@@ -1,6 +1,6 @@
 # 烟雨江湖 res_encrypt 资源解密
 ![描述](docs/view.png)
-烟雨江湖 （Android arm64）APK `assets/res_encrypt/` 加密资源的解密成果仓库，收录全部解密后的明文资源文件。仅限学习研究用途。
+烟雨江湖 `assets/res_encrypt/` 加密资源的解密成果仓库，收录全部解密后的明文资源文件。仅限学习研究用途。
 
 ---
 
